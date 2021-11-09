@@ -1,7 +1,7 @@
 - Hi, I’m Mayah Alsirhani @Mayah1996 and I’m a computer science fresh graduate.
 - I’m interested in data analysis.
 - I’m currently taking Data Analyst Nanodegree Program with Udacity
-- You can reach me through my email: mya7-96@hotmail.com 
+- You can reach me through my email: mayah.alsirhani@gmail.com 
 - Or my Linkedin: www.linkedin.com/in/mayahalsirhani
 
 
